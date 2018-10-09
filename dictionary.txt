@@ -3,3 +3,6 @@ member  thanh vien
 teach giao vien
 sofware phan men
 hardware  phan cung
+people  nguoi
+person  nguoi
+hello xin chao
