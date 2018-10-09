@@ -1,0 +1,5 @@
+student hoc sinh
+member  thanh vien
+teach giao vien
+sofware phan men
+hardware  phan cung
